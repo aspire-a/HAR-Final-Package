@@ -1,0 +1,1 @@
+We have two versions of our main ESP32 code since we first initially designed the system with BLE however our Bluetooth module got damaged and we needed to change method to WIFI. BLE has the code for the BLE version and WIFI has the script for the WIFI version. More detail can be found in respective folder.
